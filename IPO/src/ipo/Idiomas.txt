@@ -1,0 +1,6 @@
+Español
+Idioma,Precio,Cargar,Modelo,Guardar,Año,Archivo,Modificar,Anterior,Marca,Siguiente,Eliminar,Añadir,esp.png
+Ingles
+Language,Price,Load,Model,Save,Year,File,Edit,Previous,Brand,Next,Remove,Add,usa.png
+
+
